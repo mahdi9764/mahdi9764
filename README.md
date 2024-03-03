@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdi
-- 👀 I’m interested in aking Money
+- 👀 I’m interested in making Money
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to learn he basic of Programming
 - 😄 Pronouns: He/Him
